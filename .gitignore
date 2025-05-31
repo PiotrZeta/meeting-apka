@@ -1,0 +1,29 @@
+# node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# buildy Vite / TS
+dist/
+.vite/
+
+# pliki środowiskowe
+.env
+.env.local
+.env.*.local
+
+# pliki IDE / systemu
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# zależności testów / cache
+coverage/
+jest-cache/
+
+# inne pliki tymczasowe
+*.tmp
+*.swp

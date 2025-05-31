@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@ex.com",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "user@ex.com",
+      "password": "user",
+      "role": "user"
+    }
+  ],
+  "meetings": [
+    {
+      "title": ",nbkjhbukh",
+      "description": "  bkjhhvuibiuol",
+      "date": "2025-05-15",
+      "startTime": "20:34",
+      "endTime": "21:34",
+      "participants": [
+        "awsadd"
+      ],
+      "status": "scheduled",
+      "createdBy": "admin@ex.com",
+      "id": 1
+    },
+    {
+      "title": "edrfghjk",
+      "description": "rexc5ftvgybhunjimoklo,",
+      "date": "2025-05-23",
+      "startTime": "23:38",
+      "endTime": "01:39",
+      "participants": [
+        "edrfghjk"
+      ],
+      "status": "scheduled",
+      "createdBy": "admin@ex.com",
+      "id": 2
+    }
+  ]
+}
