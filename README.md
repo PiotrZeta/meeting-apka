@@ -31,9 +31,8 @@ Meeting App to prosta aplikacja stworzona w React + TypeScript z wykorzystaniem 
 │ └─ MeetingForm.tsx
 └─ styles/ (opcjonalne: globalne CSS / motywy)
 
-yaml
-Kopiuj
-Edytuj
+
+
 
 ---
 
